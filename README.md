@@ -1,5 +1,5 @@
 # hello-world
-Stay hungry，Stay foolish
+good good study, day day up
 
 母语中文，英语来自在线翻译软件，如有错误，概不负责任  
 /*Native Chinese, English from online translation software, if there are errors, neither responsible*/
